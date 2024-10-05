@@ -12,7 +12,7 @@ It allow you to quickly @ mention then in Cursor and keep your .cursorrules file
 Just git clone to a prompts folder in your project:
 
 ```shell
-git clone https://github.com/1mrat/cursor.git prompts
+git clone https://github.com/magic3007/cursor prompts
 ```
 
 You can submit PRs to add your prompts.
